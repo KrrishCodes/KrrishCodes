@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KrrishCodes
 - 👀 I’m interested in Python Projects
-- 🌱 I’m currently learning Html, Django, MLAI with www.codewithmosh.com
-- 📄 Certified Pythonista
+- 🌱 I’m currently learning Python, Html, Django, MLAI with www.codewithmosh.com
 - 📫 Reach me through LinkedIn or Instagram
 
 <!---
