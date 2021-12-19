@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrrishCodes
-- 👀 I’m interested in Python Projects
-- 🌱 I’m currently learning Python, Html, Django, MLAI with www.codewithmosh.com
-- 📫 Reach me through LinkedIn or Instagram
+- 👀 I’m interested in Developing Complex Projects
+- 🌱 Teen backend developer!!  
+- 📫 Reach me through LinkedIn(Krrish Ghindani) or Instagram(krrishtopher_)
 
 <!---
 KrrishCodes/KrrishCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
